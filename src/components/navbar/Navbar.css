@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.OLX__nav{
+    width: 100%;
+    display: flex;
+    background: #002F34;
+    position: fixed;
+    cursor: pointer;
+    z-index: 100;
+}
+
+#header-container .OLX__nav {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 100;
+    height: 72px;
+    position: fixed;
+    background: rgb(0, 47, 52);
+    transition: transform 0.5s cubic-bezier(0.8, 0.2, 0.2, 0.8) 0s;
+}
+
+.olx-website-rebranded__o {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform: translate(12px, 15px);
+    content: "";
+    width: 10px;
+    height: 10px;
+    box-shadow: rgb(36, 229, 219) 0px 0px 0px 12px;
+    border-radius: 50%;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+
+.olx-website-rebranded__l {
+    width: 10px;
+    top: 15px;
+    bottom:15px;
+    position: absolute;
+    left: 80px;
+    background: rgb(35, 229, 219);
+    margin-left: 2%;
+}
+.x{
+    top: 15px;
+    bottom: 15px;
+    position: absolute;
+    color: rgb(35, 229, 219);
+    margin-left: 8.6%;
+    font-size: 46px;
+    margin-top: -0.5%;
+}
+.nav__item{
+    color: #fff;
+    font-weight: 100;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.right{
+    margin-left: 40%;
+    display: flex;
+    margin-top: 1%;
+}
+.nav__button{
+    color: #002f34;
+    float: right;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 13px 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: none;
+    margin-left: 5%;
+}

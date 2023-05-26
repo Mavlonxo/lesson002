@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.first{
+    margin-left: -58%;
+}
+.first h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.first_1{
+    border-radius: 50%;
+    width: 60%;
+    height: 55%;
+}
+
+.second{
+    margin-left: -3%;
+}
+.second h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.second_2{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+.third{
+    margin-left: 1%;
+}
+.third h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.third_3{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+.imp{
+    display: flex;
+    width: 80%;
+    background: whitesmoke;
+    margin-left: 10%;
+    height: 40vh;
+    padding-top: 5%;
+}
+.imp2{
+    display: flex;
+    width: 80%;
+    background: whitesmoke;
+    margin-left: 10%;
+    height: 40vh;
+    padding-top: 5%;
+    margin-top: -9%;
+}
+.imp .h1{
+    color: black;
+    font-weight: 500;
+    margin-top: -5%;
+    margin-left: 40%;
+}
+
+
+.fourth{
+    margin-left: 1%;
+}
+.fourth h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.fourth_4{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+
+
+.fifth{
+    margin-left: 1%;
+}
+.fifth h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.fifth_5{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+
+
+
+.sixth{
+    margin-left: 1%;
+}
+.sixth h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.sixth_6{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+
+
+.seventh{
+    margin-left: 1%;
+}
+.seventh h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.seventh_7{
+    border-radius: 50%;
+    width: 90%;
+    height: 55%;
+}
+
+.eith{
+    margin-left: 2%;
+}
+.eith h1{
+font-size: 15px;
+margin-left: 10%;
+}
+.eith_8{
+    border-radius: 50%;
+    width: 60%;
+    height: 55%;
+}
